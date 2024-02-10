@@ -12,15 +12,15 @@ The traditional Bresenham's algorithm is designed for slopes between 0 and 1. Fo
 The algorithm was tested with the following cases:
 
 ### Case 1: Line from (1,1) to (8,4) - Represents a slope where 0 < m < 1
-![case 1](plot_ouputs/1.png)
+![case 1](plot_outputs/1.png)
 
 ### Case 2: Line from (1,1) to (4,8) - Represents a slope where m > 1
-![case 2](plot_ouputs/2.png)
+![case 2](plot_outputs/2.png)
 
 ### Case 3: Line from (2,1) to (7,7)
-![case 3](plot_ouputs/3.png)
+![case 3](plot_outputs/3.png)
 
 ### Case 4: Line from (1,2) to (7,7)
-![case 4](plot_ouputs/4.png)
+![case 4](plot_outputs/4.png)
 
 In each case, the algorithm successfully plotted the line with the correct set of points.
